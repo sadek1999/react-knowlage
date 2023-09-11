@@ -1,5 +1,7 @@
 
 import './App.css'
+import Blogs from './components/Blogs/Blogs'
+import Header from './components/Header/Header'
 
 function App() {
   
@@ -7,8 +9,8 @@ function App() {
   return (
     <>
       
-      <h1 className='text-6xl'>React-Knowledge</h1>
-      
+     <Header></Header>
+      <Blogs></Blogs>      
      
     </>
   )

@@ -1,0 +1,48 @@
+[
+    {
+      "id": "12345",
+      "cover-img": "https://i.ibb.co/Rb26RKX/2.png",
+      "title": "Lorem Ipsum Article",
+      "author-img": "https://i.ibb.co/cFCYQmT/girl2.jpg",
+      "readingtime": "10 minutes",
+      "hashtags": ["Lorem", "Ipsum", "FakeNews"],
+      "published-date": "2023-09-01"
+    },
+    {
+      "id": "54321",
+      "cover-img": "https://i.ibb.co/9TvPJFt/1.jpg",
+      "title": "Fake Blog Post",
+      "author-img": "https://example.com/author-image2.jpg",
+      "readingtime": "8 minutes",
+      "hashtags": ["Blog", "Fiction", "FunRead"],
+      "published-date": "2023-09-05"
+    },
+    {
+      "id": "98765",
+      "cover-img": "https://i.ibb.co/7gWH1Sw/3.png",
+      "title": "Random Data Post",
+      "author-img": "https://example.com/author-image3.jpg",
+      "readingtime": "15 minutes",
+      "hashtags": ["Random", "Data", "Generated"],
+      "published-date": "2023-09-10"
+    },
+    {
+      "id": "24680",
+      "cover-img": "https://i.ibb.co/Pw9qcQ3/4.jpg",
+      "title": "Fake News Story",
+      "author-img": "https://i.ibb.co/fXPS6Hp/profile.png",
+      "readingtime": "7 minutes",
+      "hashtags": ["News", "Fake", "Satire"],
+      "published-date": "2023-09-03"
+    },
+    {
+      "id": "13579",
+      "cover-img": "https://example.com/cover-image5.jpg",
+      "title": "Creative Writing Piece",
+      "author-img": "https://i.ibb.co/WfV8hHx/boy1.png",
+      "readingtime": "12 minutes",
+      "hashtags": ["Creative", "Writing", "Imagination"],
+      "published-date": "2023-09-08"
+    }
+  ]
+  
