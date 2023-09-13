@@ -1,7 +1,9 @@
 
 import './App.css'
 import Blogs from './components/Blogs/Blogs'
+import Bookmark from './components/Bookmark'
 import Header from './components/Header/Header'
+import Blog from './components/blog/blog'
 
 function App() {
   
@@ -10,7 +12,11 @@ function App() {
     <>
       
      <Header></Header>
-      <Blogs></Blogs>      
+     <div className='flex max-w-7xl mx-auto '>
+     <Blogs></Blogs>
+     <Bookmark></Bookmark>
+     </div>
+           
      
     </>
   )
