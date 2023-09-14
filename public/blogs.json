@@ -4,7 +4,7 @@
       "coverimg": "https://i.ibb.co/Rb26RKX/2.png",
       "title": "Lorem Ipsum Article",
       "authorimg": "https://i.ibb.co/cFCYQmT/girl2.jpg",
-      "readingtime": "10 minutes",
+      "readingtime": "10 ",
       "hashtags": ["Lorem", "Ipsum", "FakeNews"],
       "publisheddate": "2023-09-01",
       "name":"saiful"
@@ -14,7 +14,7 @@
       "coverimg": "https://i.ibb.co/9TvPJFt/1.jpg",
       "title": "Fake Blog Post",
       "authorimg": "https://i.ibb.co/cFCYQmT/girl2.jpg",
-      "readingtime": "8 minutes",
+      "readingtime": "8 ",
       "hashtags": ["Blog", "Fiction", "FunRead"],
       "publisheddate": "2023-09-05"
       ,"name":"maruf"
@@ -24,7 +24,7 @@
       "coverimg": "https://i.ibb.co/7gWH1Sw/3.png",
       "title": "Random Data Post",
       "authorimg": "https://i.ibb.co/cFCYQmT/girl2.jpg",
-      "readingtime": "15 minutes",
+      "readingtime": "15 ",
       "hashtags": ["Random", "Data", "Generated"],
       "publisheddate": "2023-09-10"
       ,"name":"Imran"
@@ -34,17 +34,17 @@
       "coverimg": "https://i.ibb.co/Pw9qcQ3/4.jpg",
       "title": "Fake News Story",
       "authorimg": "https://i.ibb.co/fXPS6Hp/profile.png",
-      "readingtime": "7 minutes",
+      "readingtime": "7 ",
       "hashtags": ["News", "Fake", "Satire"],
       "publisheddate": "2023-09-03"
       ,"name":"Kalam"
     },
     {
       "id": "13579",
-      "coverimg": "https://example.com/cover-image5.jpg",
+      "coverimg": "https://i.ibb.co/Rb26RKX/2.png",
       "title": "Creative Writing Piece",
       "authorimg": "https://i.ibb.co/WfV8hHx/boy1.png",
-      "readingtime": "12 minutes",
+      "readingtime": "12",
       "hashtags": ["Creative", "Writing", "Imagination"],
       "publisheddate": "2023-09-08"
       ,"name":"Kamrul hasan"
